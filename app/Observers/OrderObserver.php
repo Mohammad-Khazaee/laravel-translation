@@ -11,7 +11,7 @@ use Illuminate\Support\Facades\Notification as FacadesNotification;
 class OrderObserver
 {
     /**
-     * Handle the Order "created" event.
+     * Handle the Order "created" event .
      *
      * @param  \App\Models\Order  $order
      * @return void
@@ -23,7 +23,7 @@ class OrderObserver
     }
 
     /**
-     * Handle the Order "created" event.
+     * Handle the Order "created" event .
      *
      * @param  \App\Models\Order  $order
      * @return void
