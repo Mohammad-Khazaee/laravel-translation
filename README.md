@@ -3,6 +3,8 @@
 this project is a translation webiste bult by mohammad khazaee \
 which use some feature in the blow 
 
+- laravel eluquent
+- laravel observer
 - laravel localizaion
 - laravel jetstream 
 - bootstrap 
