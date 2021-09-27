@@ -1,6 +1,6 @@
 # laravel translation
 ## Introduction
-this project is a translation webiste which use some feature in the blow
+this project is a translation webiste which use some feature in the blow \
 
 - laravel localizaion
 - laravel jetstream 
@@ -11,10 +11,10 @@ this project is a translation webiste which use some feature in the blow
 - ...
 ## installation
 
-clone or download the project from github then run :
-```composer isntall```
-once it done run :
-```npm install && npm run dev```
+clone or download the project from github then run : \
+```composer isntall``` \
+once it done run : \
+```npm install && npm run dev``` \
 
 
 and then enjoy it :)
