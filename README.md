@@ -12,6 +12,8 @@ which use some feature in the blow
 - laravel notification 
 - laravel mail 
 - ...
+
+also this project is written clearn so you can continue devloping process
 ## installation
 
 clone or download the project from github then run : \
