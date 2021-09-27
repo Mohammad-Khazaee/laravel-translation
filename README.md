@@ -13,7 +13,7 @@ which use some feature in the blow
 - laravel mail 
 - ...
 
-also this project is written clearn so you can continue devloping process
+also this project is written clean and it follow the rules of the clean code so you can continue devloping process
 ## installation
 
 clone or download the project from github then run : \
